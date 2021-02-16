@@ -8,7 +8,7 @@
 
 - [x] Make a Github
 
-- [ ] Add Jacob to the Github 
+- [x] Add Jacob to the Github 
 
 - [ ] Procedurally generated seed based world
 
@@ -34,4 +34,4 @@
 
 - [ ] Create a player interaction menu
 
-- [ ] Figure out the best ways to get user input
+- [x] Figure out the best ways to get user input
